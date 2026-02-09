@@ -12,6 +12,8 @@
 
 WordleSolver.fun is a **free, open-source Wordle solver** that uses advanced information theory and linguistic analysis to solve NYT Wordle puzzles optimally. Our **Hybrid Entropy Engine** combines Shannon information entropy with word frequency data to achieve industry-leading performance.
 
+[![WordleSolver.fun Logo](https://github.com/devsahadat/wordlesolver-documentation/blob/main/NYT%20Wordle%20Solver%20Logo.png)](https://wordlesolver.fun)
+
 **Key Features:**
 - ✨ Solves 100% of Wordle puzzles
 - ⚡ Average 3.3 guesses per puzzle
